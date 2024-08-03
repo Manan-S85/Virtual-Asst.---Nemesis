@@ -1,1 +1,1 @@
-# Virtual-Asst.---Nemesis
+Nemesis is a virtual assistant designed to assist individuals in their daily routines and provide commercial support for office environments. The assistant is equipped with an advanced emotion detection model, which informs about the emotional states of staff in an office setting. This feature helps in boosting productivity by providing insights into the overall emotional climate of the workplace.
